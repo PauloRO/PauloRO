@@ -12,4 +12,4 @@ Atualmente estudante de Sistemas de Informação na Universidade Federal de Uber
 >
 >![GmailBadge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:paulorobertosa159@gmail.com)
 
-![Snake animation](https://github.com/PauloRO/PauloRO/blob/output/github-contribution-grid-snake.svg)]
+![Snake animation](https://github.com/PauloRO/PauloRO/blob/output/github-contribution-grid-snake.svg)
