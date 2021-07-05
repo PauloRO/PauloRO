@@ -1,10 +1,11 @@
 # Paulo Roberto ⚡
 
-	📍  Uberlândia, MG - Brasil 🇧🇷
+📍  Uberlândia, MG - Brasil 🇧🇷
 ___
+
 Atualmente estudante de Sistemas de Informação na Universidade Federal de Uberlândia.
 
-
+___
 
 >![linkedinBadge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/paulorobertosá/)
 >
