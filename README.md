@@ -9,7 +9,7 @@ ___
 
 >![linkedinBadge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/paulorobertosá/)
 >
->![OutlookBadge](https://img.shields.io/badge/-Outlook-0072C6?style=flat-square&amp;logo=Microsoft%20Outlook&amp;logoColor=white&amp;link=mailto:paulo-roberto135@hotmail.com)
+>![OutlookBadge](https://img.shields.io/badge/-Outlook-0072C6?style=flat-square&amp;logo=Microsoft%20Outlook&amp;logoColor=white&amp;link=mailto:paulo-roberto135@outlook.com)
 >
 >![GmailBadge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:paulorobertosa159@gmail.com)
 
