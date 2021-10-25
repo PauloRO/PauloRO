@@ -1,9 +1,8 @@
-# Paulo Roberto ⚡   
+# :wave: Olá, como vai?
+
 <img src="https://i.pinimg.com/originals/b2/55/7a/b2557aa8cec29a853dce8a415959f5b7.gif" width="271px" >
 
-___
-### :wave: Olá, como vai?
-
+## Meu nome é Paulo Roberto ⚡
 
 ##### Tenho 21 anos, estudante de Sistemas de Informação na Universidade Federal de Uberlândia e tentando virar Dev. Front-End.
 
