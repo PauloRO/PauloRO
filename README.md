@@ -3,7 +3,7 @@
 
 <img src="https://i.pinimg.com/originals/b2/55/7a/b2557aa8cec29a853dce8a415959f5b7.gif" width="240px" >
 
-##### > Tenho 22 anos e sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia mas no momento buscando aprender por conta própria.
+##### > Tenho 23 anos e sou estudante mas no momento buscando aprender por conta própria.
 
 
 ###### > "Tentando ser melhor do que ontem."
