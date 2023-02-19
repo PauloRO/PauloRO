@@ -3,7 +3,7 @@
 
 <img src="https://i.pinimg.com/originals/b2/55/7a/b2557aa8cec29a853dce8a415959f5b7.gif" width="240px" >
 
-##### > Tenho 23 anos e sou estudante mas no momento buscando aprender por conta própria.
+##### > Tenho 23 anos, trabalho como desenvolvedor Front-End e sou estudante mas no momento buscando aprender por conta própria.
 
 
 ###### > "Tentando ser melhor do que ontem."
@@ -13,8 +13,6 @@ ___
 
 
 >[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_ypaulo/?hl=pt-br)
->
->[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FoogZz)](https://twitter.com/FoogZz)
 >
 >[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulorobertos%C3%A1/)](https://www.linkedin.com/in/paulorobertos%C3%A1/)
 >
