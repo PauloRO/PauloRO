@@ -12,8 +12,6 @@ ___
 ## Entre em contato comigo
 
 
->[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_ypaulo/?hl=pt-br)
->
 >[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulorobertos%C3%A1/)](https://www.linkedin.com/in/paulorobertos%C3%A1/)
 >
 >[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulorobertosa159@gmail.com)](mailto:paulorobertosa159@gmail.com)
