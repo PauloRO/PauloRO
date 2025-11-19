@@ -3,7 +3,7 @@
 
 <img src="https://i.pinimg.com/originals/b2/55/7a/b2557aa8cec29a853dce8a415959f5b7.gif" width="240px" >
 
-##### > Tenho 25 anos, trabalho como desenvolvedor Front-end e Back-end e sou estudante de Sistemas de Internet.
+##### > Tenho 26 anos, atualmente trabalho como desenvolvedor Front-end e Back-end e sou estudante de Sistemas para Internet.
 
 
 ###### > "Tentando ser melhor do que ontem."
