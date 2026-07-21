@@ -33,7 +33,7 @@ ___
 ## 📫 Entre em contato comigo
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulooliveirasa)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulorobertosa159@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulooliveirasa)](www.linkedin.com/in/paulooliveirasa)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulorobertosa159@gmail.com)](mailto:paulorobertosa159@gmail.com)
 
-<img src="https://raw.githubusercontent.com/PauloRO/PauloRO/output/snake.svg" width="100%">
+![Snake animation](https://github.com/PauloRO/PauloRO/blob/output/github-contribution-grid-snake.svg)
