@@ -127,7 +127,7 @@ public class PauloOliveira extends FullStackDeveloper {
 <br/>
 
 <!-- ================= STATS ================= -->
-## `> github_stats`
+<!-- ## `> github_stats`
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloRO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF&ring_color=FFD600&count_private=true" alt="GitHub Stats"/>
@@ -138,10 +138,10 @@ public class PauloOliveira extends FullStackDeveloper {
   <img src="https://streak-stats.demolab.com?user=PauloRO&background=0D0D0D&ring=FFD600&fire=FFD600&currStreakLabel=FFD600&currStreakNum=FFFFFF&sideLabels=FFD600&sideNums=FFFFFF&dates=AAAAAA&stroke=333333&border=0D0D0D" alt="GitHub Streak"/>
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ================= ACTIVITY ================= -->
-## `> atividade`
+<!-- ## `> atividade`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0D0D0D&color=FFD600&line=FFD600&point=FFFFFF&area=true&area_color=FFD600&hide_border=true" alt="Activity Graph" width="100%"/>
@@ -150,7 +150,7 @@ public class PauloOliveira extends FullStackDeveloper {
 <br/>
 
 <!-- ================= TROPHIES ================= -->
-## `> trofeus`
+<!--## `> trofeus`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PauloRO&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
@@ -159,7 +159,7 @@ public class PauloOliveira extends FullStackDeveloper {
 <br/>
 
 <!-- ================= SNAKE ================= -->
-## `> contribuicoes`
+<!--## `> contribuicoes`
 
 <div align="center">
   <picture>
