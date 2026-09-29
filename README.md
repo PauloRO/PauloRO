@@ -179,7 +179,7 @@ public class PauloOliveira extends FullStackDeveloper {
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-FFD600?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/PauloRO">
-    <img src="https://img.shields.io/badge/GitHub-SEU--USUARIO-0D0D0D?style=for-the-badge&logo=github&logoColor=FFD600&labelColor=0D0D0D&color=0D0D0D" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-PauloRO-0D0D0D?style=for-the-badge&logo=github&logoColor=FFD600&labelColor=0D0D0D&color=0D0D0D" alt="GitHub"/>
   </a>
   <!-- Opcional: descomente e coloque seu e-mail
   <a href="mailto:SEU-EMAIL">
@@ -196,7 +196,5 @@ public class PauloOliveira extends FullStackDeveloper {
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=FFD600&center=true&vCenter=true&width=520&height=30&lines=git+commit+-m+%22obrigado+pela+visita%22;while+%28true%29+%7B+aprender%28%29%3B+%7D" alt="Rodapé"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=90&section=footer&text=%7B%20Paulo%20Oliveira%20%7D&fontSize=22&fontColor=FFD600&fontAlignY=60" alt="Rodapé" width="100%"/>
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9700a489505103.5dfa69044fa90.gif" width="240px">
 
 </div>
