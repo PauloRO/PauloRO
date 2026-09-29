@@ -23,8 +23,6 @@
 <!-- ================= SOBRE ================= -->
 ## `> sobre_mim`
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9700a489505103.5dfa69044fa90.gif" width="240px">
-
 Sou desenvolvedor Full Stack e trabalho há 4 anos nos dois lados do sistema: da tela em **Angular** até a API em **Spring Boot** e o banco de dados.
 
 No front, gosto de formulário reativo bem feito, RxJS sob controle e componente que dá para reaproveitar. No back, o foco é API REST organizada, autenticação com **JWT**, regras de permissão e migrações versionadas com Liquibase.
@@ -96,10 +94,10 @@ public class PauloOliveira extends FullStackDeveloper {
 <br/>
 
 <!-- ================= PROJETOS ================= -->
-## `> projetos`
+<!--## `> projetos` -->
 
 <!-- Troque NOME-DO-REPO-1..4 pelos repositórios que você quer destacar -->
-<table>
+<!-- <table>
   <tr>
     <td width="50%">
       <a href="https://github.com/SEU-USUARIO/NOME-DO-REPO-1">
@@ -115,29 +113,29 @@ public class PauloOliveira extends FullStackDeveloper {
   <tr>
     <td width="50%">
       <a href="https://github.com/SEU-USUARIO/NOME-DO-REPO-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-3&theme=dark&bg_color=0D0D0D&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF&hide_border=true" alt="Projeto 3"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloRO&repo=NOME-DO-REPO-3&theme=dark&bg_color=0D0D0D&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF&hide_border=true" alt="Projeto 3"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/SEU-USUARIO/NOME-DO-REPO-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-4&theme=dark&bg_color=0D0D0D&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF&hide_border=true" alt="Projeto 4"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloRO&repo=NOME-DO-REPO-4&theme=dark&bg_color=0D0D0D&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF&hide_border=true" alt="Projeto 4"/>
       </a>
     </td>
   </tr>
 </table>
-
+ -->
 <br/>
 
 <!-- ================= STATS ================= -->
 ## `> github_stats`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF&ring_color=FFD600&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD600&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloRO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF&ring_color=FFD600&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRO&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD600&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&background=0D0D0D&ring=FFD600&fire=FFD600&currStreakLabel=FFD600&currStreakNum=FFFFFF&sideLabels=FFD600&sideNums=FFFFFF&dates=AAAAAA&stroke=333333&border=0D0D0D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=PauloRO&background=0D0D0D&ring=FFD600&fire=FFD600&currStreakLabel=FFD600&currStreakNum=FFFFFF&sideLabels=FFD600&sideNums=FFFFFF&dates=AAAAAA&stroke=333333&border=0D0D0D" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -155,7 +153,7 @@ public class PauloOliveira extends FullStackDeveloper {
 ## `> trofeus`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PauloRO&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -165,9 +163,9 @@ public class PauloOliveira extends FullStackDeveloper {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg"/>
-    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloRO/PauloRO/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloRO/PauloRO/output/github-snake.svg"/>
+    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/PauloRO/PauloRO/output/github-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -180,7 +178,7 @@ public class PauloOliveira extends FullStackDeveloper {
   <a href="https://www.linkedin.com/in/paulooliveirasa">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-FFD600?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/PauloRO">
     <img src="https://img.shields.io/badge/GitHub-SEU--USUARIO-0D0D0D?style=for-the-badge&logo=github&logoColor=FFD600&labelColor=0D0D0D&color=0D0D0D" alt="GitHub"/>
   </a>
   <!-- Opcional: descomente e coloque seu e-mail
@@ -198,5 +196,7 @@ public class PauloOliveira extends FullStackDeveloper {
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=FFD600&center=true&vCenter=true&width=520&height=30&lines=git+commit+-m+%22obrigado+pela+visita%22;while+%28true%29+%7B+aprender%28%29%3B+%7D" alt="Rodapé"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=90&section=footer&text=%7B%20Paulo%20Oliveira%20%7D&fontSize=22&fontColor=FFD600&fontAlignY=60" alt="Rodapé" width="100%"/>
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9700a489505103.5dfa69044fa90.gif" width="240px">
 
 </div>
